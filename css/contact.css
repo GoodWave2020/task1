@@ -1,0 +1,22 @@
+.contact-form th{
+  width: 150px;
+  height: 7rem;
+}
+.form{
+  width: 480px;
+}
+.submit{
+  text-align: center;
+}
+.submit-btn{
+  background-color: blue;
+  color: white;
+  padding: 10px 30px;
+  border-style: none;
+  border-radius: 4px;
+  font-size: 2rem;
+  box-shadow: 2px 2px 3px 1px #666;
+}
+.submit-btn:hover{
+  opacity: 0.6;
+}
